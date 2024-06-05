@@ -1,0 +1,9 @@
+:root{
+    --color1:#FFA299;
+    --color2: #FFF7F6;
+    --color3:#252429;
+}
+*{
+    box-sizing: border-box;
+    
+}
